@@ -1,0 +1,1 @@
+This one is an another small project. A simple fun Rock Paper Scissor Game made in JS. 
